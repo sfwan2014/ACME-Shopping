@@ -1,0 +1,524 @@
+{
+    "result": 1,
+    "index": [{
+              "link": {
+              "action": "getOperatePage",
+              "fpoint": "00180",
+              "module": "pageService",
+              "pageid": "oper_home",
+              "title": ""
+              },
+              "linktype": "oper_home",
+              "pagestotal": 1,
+              "title": ""
+              },
+              
+              {
+              "link": {
+              "action": "getPage",
+              "fpoint": "00180",
+              "module": "pageService",
+              "title": "女装"
+              },
+              "linktype": "cuoluo",
+              "pagestotal": 32,
+              "title": "女装"
+              },
+              
+              {
+              "link": {
+              "action": "getPage",
+              "fpoint": "00180",
+              "module": "pageService",
+              "title": "女鞋"
+              },
+              "linktype": "cuoluo",
+              "pagestotal": 30,
+              "title": "女鞋"
+              }, {
+              "link": {
+              "action": "getPage",
+              "fpoint": "00180",
+              "module": "pageService",
+              "title": "包包"
+              },
+              "linktype": "cuoluo",
+              "pagestotal": 16,
+              "title": "包包"
+              }, {
+              "link": {
+              "action": "getPage",
+              "fpoint": "00180",
+              "module": "pageService",
+              "title": "内衣睡衣"
+              },
+              "linktype": "cuoluo",
+              "pagestotal": 16,
+              "title": "内衣睡衣"
+              }, {
+              "link": {
+              "action": "getPage",
+              "fpoint": "00180",
+              "module": "pageService",
+              "title": "男装"
+              },
+              "linktype": "cuoluo",
+              "pagestotal": 16,
+              "title": "男装"
+              }, {
+              "link": {
+              "action": "getPage",
+              "fpoint": "00180",
+              "module": "pageService",
+              "title": "男鞋"
+              },
+              "linktype": "cuoluo",
+              "pagestotal": 16,
+              "title": "男鞋"
+              }, {
+              "link": {
+              "action": "getPage",
+              "fpoint": "00180",
+              "module": "pageService",
+              "title": "美容彩妆"
+              },
+              "linktype": "cuoluo",
+              "pagestotal": 16,
+              "title": "美容彩妆"
+              }, {
+              "link": {
+              "action": "getPage",
+              "fpoint": "00180",
+              "module": "pageService",
+              "title": "饰品珠宝"
+              },
+              "linktype": "cuoluo",
+              "pagestotal": 16,
+              "title": "饰品珠宝"
+              }, {
+              "link": {
+              "action": "getPage",
+              "fpoint": "00180",
+              "module": "pageService",
+              "title": "家居生活"
+              },
+              "linktype": "cuoluo",
+              "pagestotal": 16,
+              "title": "家居生活"
+              }, {
+              "link": {
+              "action": "getPage",
+              "fpoint": "00180",
+              "module": "pageService",
+              "title": "母婴用品"
+              },
+              "linktype": "cuoluo",
+              "pagestotal": 16,
+              "title": "母婴用品"
+              }, {
+              "link": {},
+              "linktype": "daquan",
+              "pagestotal": 1,
+              "title": "宝贝大全"
+              }, {
+              "link": {},
+              "linktype": "apps",
+              "pagestotal": 1,
+              "title": "精品应用"
+              }],
+    
+    "customList": [{
+                   "columns": 0,
+                   "itemcount": 5,
+                   "items": [{
+                             "image": "http://img1.tbcdn.cn:80/L1/68/1027/d21d20f0516543eea36b352e1f473487.png",
+                             "link":
+                                 {
+                                 "action": "searchItems",
+                                 "catName": "床上用品/布艺软饰",
+                                 "cid": "50008163",
+                                 "discount": "true",
+                                 "module": "itemService",
+                                 "templates": "20,22,23"
+                                 },
+                             
+                             "linktype": "searchlist",
+                             "title": "家纺",
+                             "type": "image"
+                             },
+
+                             {
+                             "image": "http://img3.tbcdn.cn:80/L1/68/3587/ae35ffc021a84096ae8ae00ba8aa6c24.png",
+                             "link": {
+                                 "action": "searchItems",
+                                 "catName": "女鞋",
+                                 "cid": "50006843",
+                                 "discount": "true",
+                                 "key": "高跟",
+                                 "module": "itemService",
+                                 "templates": "20,22,23"
+                                 },
+                             "linktype": "searchlist",
+                             "title": "女鞋",
+                             "type": "image"
+                             },
+
+                             {
+                             "image": "http://img2.tbcdn.cn:80/L1/68/633/0b0603b6a3ec4bfd8ac7a7d0c6128c2a.png",
+                             "link": {
+                             "action": "getPage",
+                             "fpoint": "00180",
+                             "module": "pageService",
+                             "title": "美容彩妆",
+                             "type": "pindao"
+                             },
+                             "linktype": "pindao",
+                             "title": "美容护肤",
+                             "type": "image"
+                             },
+                             
+                             {
+                             "image": "http://img1.tbcdn.cn:80/L1/68/4571/70fdbc06d19842db91836cf434506e61.png",
+                             "link": {
+                             "action": "searchItems",
+                             "catName": "住宅家具",
+                             "cid": "50008164",
+                             "discount": "true",
+                             "module": "itemService",
+                             "templates": "20,22,23"
+                             },
+                             "linktype": "searchlist",
+                             "title": "住宅家具",
+                             "type": "image"
+                             },
+                             
+                             {
+                             "image": "http://img1.tbcdn.cn:80/L1/68/5061/f5a59c7820c34b519aee526756e9ec5b.png",
+                             "link": {
+                             "action": "searchItems",
+                             "catName": "箱包皮具/热销女包/男包",
+                             "cid": "50006842",
+                             "key": "女包",
+                             "module": "itemService",
+                             "templates": "20,22,23"
+                             },
+                             "linktype": "searchlist",
+                             "title": "潮流女包",
+                             "type": "image"
+                             }],
+
+                   "mid": 627,
+                   "mtype": "image",
+                   "showtitle": false,
+                   "title": "图片轮播"
+                   },
+                   {
+                   "columns": 3,
+                   "itemcount": 9,
+                   "items": [{
+                             "content":
+                                     {
+                                            "text": "签到暂停"
+                                    },
+                             
+                             "link": {
+                                     "action": "searchItems",
+                                     "catName": "家居饰品",
+                                     "cid": "50020808",
+                                     "module": "itemService",
+                                     "templates": "20,22,23"
+                                     },
+                             
+                             "linktype": "searchlist",
+                             "title": "签到暂停",
+                             "type": "info"
+                             },
+                             
+                             {
+                             "image": "http://img1.tbcdn.cn:80/L1/68/5250/c5530e22d52344e4b7a312248ebfba45.png",
+                             "link":
+                             {
+                             "action": "searchItems",
+                             "catName": "蕾丝衫/雪纺衫",
+                             "cid": "162116",
+                             "discount": "true",
+                             "key": "雪纺",
+                             "module": "itemService",
+                             "templates": "20,22,23"
+                             },
+                             "linktype": "searchlist",
+                             "title": "",
+                             "type": "item"
+                             },
+                             {
+                             "image": "http://img2.tbcdn.cn:80/L1/68/1677/c039d42b96654768b27811abb510b482.png",
+                             "link": {
+                             "action": "searchItems",
+                             "catName": "连衣裙",
+                             "cid": "50010850",
+                             "discount": "true",
+                             "key": "连衣裙",
+                             "module": "itemService",
+                             "templates": "20,22,23"
+                             },
+                             "linktype": "searchlist",
+                             "title": "",
+                             "type": "item"
+                             },
+
+                             {
+                             "image": "http://img4.tbcdn.cn:80/L1/68/7637/065f63544acf48a58bb8c87e93f1dd9b.png",
+                             "link": {
+                             "action": "searchItems",
+                             "catName": "男装",
+                             "cid": "30",
+                             "discount": "true",
+                             "key": "短裤",
+                             "module": "itemService",
+                             "templates": "20,22,23"
+                             },
+                             "linktype": "searchlist",
+                             "title": "",
+                             "type": "item"
+                             },
+
+                             {
+                             "image": "http://img4.tbcdn.cn:80/L1/68/9434/4c3b2521973747ed84fcc39afb848c01.png",
+                             "link": {
+                             "action": "searchItems",
+                             "catName": "T恤",
+                             "cid": "50000436",
+                             "discount": "true",
+                             "key": "T恤",
+                             "module": "itemService",
+                             "templates": "20,22,23"
+                             },
+                             "linktype": "searchlist",
+                             "title": "",
+                             "type": "item"
+                             },
+                             
+                             {
+                             "content": {
+                             "text": "男休闲鞋"
+                             },
+                             "link": {
+                             "action": "searchItems",
+                             "catName": "流行男鞋",
+                             "cid": "50011740",
+                             "key": "休闲鞋",
+                             "module": "itemService",
+                             "templates": "20,22,23"
+                             },
+                             "linktype": "searchlist",
+                             "title": "男休闲鞋",
+                             "type": "info"
+                             },
+                             
+                             {
+                             "image": "http://img4.tbcdn.cn:80/L1/68/5221/8308b772b0c8421ea6b14b21210795e6.png",
+                             "link": {
+                             "action": "searchItems",
+                             "catName": "凉鞋",
+                             "cid": "50012032",
+                             "discount": "true",
+                             "module": "itemService",
+                             "templates": "20,22,23"
+                             },
+                             "linktype": "searchlist",
+                             "title": "",
+                             "type": "item"
+                             },
+                             
+                             {
+                             "content": {
+                             "text": "潮流女装"
+                             },
+                             "link": {
+                             "action": "getPage",
+                             "fpoint": "00180",
+                             "module": "pageService",
+                             "title": "女装",
+                             "type": "pindao"
+                             },
+                             "linktype": "pindao",
+                             "title": "潮流女装",
+                             "type": "info"
+                             },
+                             
+                             {
+                             "image": "http://img1.tbcdn.cn:80/L1/68/6879/884ad89a6ed44528b825a807218cd039.png",
+                             "link": {
+                             "action": "searchItems",
+                             "catName": "女装/女士精品",
+                             "cid": "16",
+                             "discount": "true",
+                             "key": "短裤",
+                             "module": "itemService",
+                             "templates": "20,22,23"
+                             },
+                             "linktype": "searchlist",
+                             "title": "",
+                             "type": "item"
+                             }],
+                   "mid": 628,
+                   "mtype": "infoImage",
+                   "showtitle": false,
+                   "title": "图片混排"
+                   },
+                   
+                   {
+                   "columns": 2,
+                   "itemcount": 6,
+                   "items": [{
+                             "content": {
+                             "price": "159.00"
+                             },
+                             "image": "http://img02.taobaocdn.com/bao/uploaded/i2/10211027004750664/T1PoupFe0cXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                             
+                             "link": {
+                             "itemid": "19588698150"
+                             },
+                             
+                             "linktype": "item",
+                             "type": "item"
+                             },
+                             
+                             {
+                             "content": {
+                             "price": "175.00"
+                             },
+                             "image": "http://img04.taobaocdn.com/bao/uploaded/i4/13595029069556703/T14hrGFc4dXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                             "link": {
+                             "itemid": "16073930875"
+                             },
+                             "linktype": "item",
+                             "type": "item"
+                             },
+                             
+                             {
+                             "content": {
+                             "price": "109.00"
+                             },
+                             "image": "http://img01.taobaocdn.com/bao/uploaded/i1/17734021086515191/T1frt1XtFXXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                             "link": {
+                             "itemid": "18861208073"
+                             },
+                             "linktype": "item",
+                             "type": "item"
+                             }, {
+                             "content": {
+                             "price": "165.00"
+                             },
+                             "image": "http://img04.taobaocdn.com/bao/uploaded/i4/17151028036654878/T15JaNFc8bXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                             "link": {
+                             "itemid": "26927432741"
+                             },
+                             "linktype": "item",
+                             "type": "item"
+                             }, {
+                             "content": {
+                             "price": "258.00"
+                             },
+                             "image": "http://img01.taobaocdn.com/bao/uploaded/i1/15633029223527105/T1TgrwFjRcXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                             "link": {
+                             "itemid": "21793123429"
+                             },
+                             "linktype": "item",
+                             "type": "item"
+                             }, {
+                             "content": {
+                             "price": "128.00"
+                             },
+                             "image": "http://img02.taobaocdn.com/bao/uploaded/i2/14298024275813143/T1mP8cFjFgXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                             "link": {
+                             "itemid": "18224172850"
+                             },
+                             "linktype": "item",
+                             "type": "item"
+                             }],
+                   "mid": 629,
+                   "mtype": "newItems",
+                   "showtitle": true,
+                   "title": "精致女人"
+                   },
+                   
+                   {
+                   "columns": 3,
+                   "itemcount": 6,
+                   "items": [{
+                             "content": {
+                             "price": "198.00"
+                             },
+                             "image": "http://img01.taobaocdn.com/bao/uploaded/i1/17367040049944251/T14c9RFmxbXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                             "link": {
+                             "itemid": "12665406121"
+                             },
+                             "linktype": "item",
+                             "type": "item"
+                             }, {
+                             "content": {
+                             "price": "168.00"
+                             },
+                             "image": "http://img02.taobaocdn.com/bao/uploaded/i2/19219025210490720/T14UuWXrFfXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                             "link": {
+                             "itemid": "22713924687"
+                             },
+                             "linktype": "item",
+                             "type": "item"
+                             }, {
+                             "content": {
+                             "price": "158.00"
+                             },
+                             "image": "http://img04.taobaocdn.com/bao/uploaded/i4/11921025783767477/T14fXSFlJhXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                             "link": {
+                             "itemid": "18068329941"
+                             },
+                             "linktype": "item",
+                             "type": "item"
+                             }, {
+                             "content": {
+                             "price": "179.00"
+                             },
+                             "image": "http://img04.taobaocdn.com/bao/uploaded/i4/13268028112933465/T1OpuRFa4eXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                             "link": {
+                             "itemid": "18484876328"
+                             },
+                             "linktype": "item",
+                             "type": "item"
+                             }, {
+                             "content": {
+                             "price": "279.00"
+                             },
+                             "image": "http://img02.taobaocdn.com/bao/uploaded/i2/16860028301081073/T18A93FblaXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                             "link": {
+                             "itemid": "19655653414"
+                             },
+                             "linktype": "item",
+                             "type": "item"
+                             }, {
+                             "content": {
+                             "price": "180.00"
+                             },
+                             "image": "http://img04.taobaocdn.com/bao/uploaded/i4/12541028659973497/T1VhhtXEBhXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                             "link": {
+                             "itemid": "22221675852"
+                             },
+                             "linktype": "item",
+                             "type": "item"
+                             }],
+                   "mid": 630,
+                   "mtype": "topItems",
+                   "showtitle": true,
+                   "title": "品位男人"
+                   }],
+    "svrconf": {
+        "carturl": "http://d.m.taobao.com/my_bag.htm",
+        "email": "78665902@qq.com",
+        "iphone_preview": "false",
+        "istaoke": "true",
+        "orderurl": "http://tm.m.taobao.com/order_list.htm?statusId=4",
+        "pid": "mm_27400360_0_0"
+    }
+}
+

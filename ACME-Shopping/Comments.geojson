@@ -1,0 +1,69 @@
+{
+    "result": 1,
+    "totalCount": 87,
+    "thread": {
+        "content": "不会买",
+        "createTime": "2013-10-30 03:18:03",
+        "favorCount": 0,
+        "groupId": 1526001,
+        "threadId": 2424030,
+        "authorNick": "it0354",
+        "authorPic": "http://download.taobaocdn.com/dipei/group_user_pic.jpg",
+        "isMaster": true,
+        "picUrl":"http://img02.taobaocdn.com/imgextra/i2/16894036349588433/T1tDphFmNfXXXXXXXX_!!0-item_pic.jpg",
+        "replayCount": 87,
+        "authorId": 23167982
+    },
+    "threadReplyList": [{
+                        "content": "好,到了",
+                        "createTime": "2013-10-31 23:36:04",
+                        "floor": 87,
+                        "threadId": 2424030,
+                        "replyUserId": 260510608,
+                        "isMaster": false,
+                        "replyUserPic": "http://img02.taobaocdn.com/imgextra/i2/T17z0_XlNGXXb1upjX.jpg",
+                        "replyId": 2836954,
+                        "replyUserNick": "yonghe826"
+                        }, {
+                        "content": "哈哈, 逗比, 这都不会买",
+                        "createTime": "2013-10-30 12:42:21",
+                        "floor": 86,
+                        "threadId": 2424030,
+                        "replyUserId": 1858718825,
+                        "isMaster": false,
+                        "replyUserPic": "http://download.taobaocdn.com/dipei/group_user_pic.jpg",
+                        "replyId": 2834949,
+                        "replyUserNick": "你土豪金掉了"
+                        }, {
+                        "content": "我购买成功了哦",
+                        "createTime": "2013-10-26 16:34:43",
+                        "floor": 85,
+                        "threadId": 2424030,
+                        "replyUserId": 618592498,
+                        "isMaster": false,
+                        "replyUserPic": "http://img01.taobaocdn.com/imgextra/T13eIDXjVfXXb1upjX.jpg",
+                        "replyId": 2836746,
+                        "replyUserNick": "七在线"
+                        }, {
+                        "content": "点击购买就可以买了的",
+                        "createTime": "2013-10-24 15:30:23",
+                        "floor": 84,
+                        "threadId": 2424030,
+                        "replyUserId": 1730309816,
+                        "isMaster": false,
+                        "replyUserPic": "http://download.taobaocdn.com/dipei/group_user_pic.jpg",
+                        "replyId": 2837607,
+                        "replyUserNick": "tb25222031"
+                        }, {
+                        "content": "你也不会买啊, 我也是",
+                        "createTime": "2013-10-20 06:43:08",
+                        "floor": 83,
+                        "threadId": 2424030,
+                        "replyUserId": 1699621738,
+                        "isMaster": false,
+                        "replyUserPic": "http://img01.taobaocdn.com/imgextra/T1YQB3FhdcXXb1upjX.jpg",
+                        "replyId": 2826464,
+                        "replyUserNick": "紫色忆吧"
+                        }],
+    "newReplyId": 2837607
+}

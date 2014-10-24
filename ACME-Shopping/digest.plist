@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>趣购时尚</key>
+	<string>2D548FC07DE565DAF8B224879AB223C4</string>
+	<key>女装</key>
+	<string>B9A41D5DD85F68C45C530213E2D8F549</string>
+	<key>女鞋</key>
+	<string>1296ED74890D46E8D2F50A056A21A091</string>
+	<key>包包</key>
+	<string>67B5682C4D342D7A2AED14F19D10BC6D</string>
+	<key>内衣睡衣</key>
+	<string>5EB5774A242043A88559346F96631A45</string>
+	<key>男装</key>
+	<string>254B7F834AEE8CCF7B74EBFD7DB70234</string>
+	<key>男鞋</key>
+	<string>CF3177852092E6688FB605EBF48DB77F</string>
+	<key>美容彩妆</key>
+	<string>1732E95BC633C4F36B51EC083D91E249</string>
+	<key>饰品珠宝</key>
+	<string>F84B45599A7C50AFF8E5685E86BB5782</string>
+	<key>家居生活</key>
+	<string>43ED5661E307773D828E5AB29D43AF0B</string>
+	<key>母婴用品</key>
+	<string>7ED34557196545BF2A94FF75662F0E8A</string>
+	<key>精品应用</key>
+	<string>050771821F12C69A65B7DB438BC3F018</string>
+</dict>
+</plist>

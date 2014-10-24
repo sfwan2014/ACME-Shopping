@@ -1,0 +1,381 @@
+{
+    "result": 1,
+    "pagebeans": [{
+                  "distance": 1,
+                  "drawline": true,
+                  "height": 5232,
+                  "items": [
+                            {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img03.taobaocdn.com/bao/uploaded/i3/15603025097430172/T1gTBEFkFgXXXXXXXX_!!2-item_pic.png_250x250.jpg",
+                            "rect": {
+                                    "b": 247,
+                                    "id": -1,
+                                    "l": 0,
+                                    "r": 240,
+                                    "t": 0
+                                    },
+                            "type": 1,
+                            "uri": "null,null,17120805219,4,36.80"
+                            },
+
+                            {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img04.taobaocdn.com/bao/uploaded/i4/10338025298133209/T1SaBKFgVXXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                            "rect": {
+                                    "b": 247,
+                                    "id": -1,
+                                    "l": 240,
+                                    "r": 480,
+                                    "t": 0
+                                    },
+                            "type": 1,
+                            "uri": "null,null,10590451882,4,80.00"
+                            },
+                            
+
+                            {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img04.taobaocdn.com/bao/uploaded/i4/14293029039919867/T1fHeKXuBaXXXXXXXX_!!0-item_pic.jpg_480x480.jpg",
+                            "rect": {
+                            "b": 573,
+                            "id": -1,
+                            "l": 0,
+                            "r": 324,
+                            "t": 247
+                            },
+                            "type": 1,
+                            "uri": "null,null,9117781866,4,68.00"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img02.taobaocdn.com/bao/uploaded/i2/12838028582681596/T1OSYgFf4bXXXXXXXX_!!0-item_pic.jpg_160x160.jpg",
+                            "rect": {
+                            "b": 409,
+                            "id": -1,
+                            "l": 324,
+                            "r": 480,
+                            "t": 247
+                            },
+                            "type": 1,
+                            "uri": "null,null,21435916040,4,212.00"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img03.taobaocdn.com/bao/uploaded/i3/T195nxXkXgXXb9DPwY_030127.jpg_160x160.jpg",
+                            "rect": {
+                            "b": 573,
+                            "id": -1,
+                            "l": 324,
+                            "r": 480,
+                            "t": 409
+                            },
+                            "type": 1,
+                            "uri": "null,null,15120582824,4,55.00"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img04.taobaocdn.com/bao/uploaded/i4/13180040710368371/T1kNS9FalcXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                            "rect": {
+                            "b": 742,
+                            "id": -1,
+                            "l": 0,
+                            "r": 162,
+                            "t": 573
+                            },
+                            "type": 1,
+                            "uri": "null,null,22610887363,4,38.00"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img04.taobaocdn.com/bao/uploaded/i4/18125027847854277/T1jLqZFfpaXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                            "rect": {
+                            "b": 742,
+                            "id": -1,
+                            "l": 162,
+                            "r": 324,
+                            "t": 573
+                            },
+                            "type": 1,
+                            "uri": "null,null,2254822506,4,78.00"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img03.taobaocdn.com/bao/uploaded/i3/11439020300074778/T1vCJEXtVgXXXXXXXX_!!0-item_pic.jpg_160x160.jpg",
+                            "rect": {
+                            "b": 742,
+                            "id": -1,
+                            "l": 324,
+                            "r": 480,
+                            "t": 573
+                            },
+                            "type": 1,
+                            "uri": "null,null,19165119678,4,68.00"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img04.taobaocdn.com/bao/uploaded/i4/17800037955792039/T1er4tFbRaXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                            "rect": {
+                            "b": 990,
+                            "id": -1,
+                            "l": 0,
+                            "r": 240,
+                            "t": 742
+                            },
+                            "type": 1,
+                            "uri": "null,null,26681732202,4,128.00"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img01.taobaocdn.com/bao/uploaded/i1/13932020056147210/T1WW8BXr0XXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                            "rect": {
+                            "b": 990,
+                            "id": -1,
+                            "l": 240,
+                            "r": 480,
+                            "t": 742
+                            },
+                            "type": 1,
+                            "uri": "null,null,17435401472,4,90.00"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img02.taobaocdn.com/bao/uploaded/i2/18910028938683003/T1V8_hFchfXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                            "rect": {
+                            "b": 1237,
+                            "id": -1,
+                            "l": 0,
+                            "r": 240,
+                            "t": 990
+                            },
+                            "type": 1,
+                            "uri": "null,null,3599093395,4,35.05"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img04.taobaocdn.com/bao/uploaded/i4/17892026226582368/T1SKyeFmdXXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                            "rect": {
+                            "b": 1237,
+                            "id": -1,
+                            "l": 240,
+                            "r": 480,
+                            "t": 990
+                            },
+                            "type": 1,
+                            "uri": "null,null,19565498783,4,28.00"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img03.taobaocdn.com/bao/uploaded/i3/18797028539125729/T1G1fiFgdXXXXXXXXX_!!0-item_pic.jpg_480x480.jpg",
+                            "rect": {
+                            "b": 1597,
+                            "id": -1,
+                            "l": 0,
+                            "r": 480,
+                            "t": 1237
+                            },
+                            "type": 1,
+                            "uri": "null,null,19117134813,4,28.50"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img02.taobaocdn.com/bao/uploaded/i2/10442024755745055/T1BclsFjRdXXXXXXXX_!!0-item_pic.jpg_480x480.jpg",
+                            "rect": {
+                            "b": 1957,
+                            "id": -1,
+                            "l": 0,
+                            "r": 480,
+                            "t": 1597
+                            },
+                            "type": 1,
+                            "uri": "null,null,26065652457,4,28.00"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img03.taobaocdn.com/bao/uploaded/i3/17227028677760524/T1PrHjFi0aXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                            "rect": {
+                            "b": 2119,
+                            "id": -1,
+                            "l": 0,
+                            "r": 162,
+                            "t": 1957
+                            },
+                            "type": 1,
+                            "uri": "null,null,18120216300,4,84.00"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img04.taobaocdn.com/bao/uploaded/i4/18726021309666977/T1K4pYXDBcXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                            "rect": {
+                            "b": 2283,
+                            "id": -1,
+                            "l": 0,
+                            "r": 162,
+                            "t": 2119
+                            },
+                            "type": 1,
+                            "uri": "null,null,10679825961,4,47.00"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img02.taobaocdn.com/bao/uploaded/i2/16239028797642364/T1b_HzFaRXXXXXXXXX_!!0-item_pic.jpg_320x320.jpg",
+                            "rect": {
+                            "b": 2283,
+                            "id": -1,
+                            "l": 162,
+                            "r": 480,
+                            "t": 1957
+                            },
+                            "type": 1,
+                            "uri": "null,null,8095482851,4,299.00"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img01.taobaocdn.com/bao/uploaded/i1/15383026945509884/T1AeayFildXXXXXXXX_!!0-item_pic.jpg_480x480.jpg",
+                            "rect": {
+                            "b": 2568,
+                            "id": -1,
+                            "l": 0,
+                            "r": 480,
+                            "t": 2283
+                            },
+                            "type": 1,
+                            "uri": "null,null,18300769803,4,18.00"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img04.taobaocdn.com/bao/uploaded/i4/18551028726846062/T1lW_pFaBeXXXXXXXX_!!0-item_pic.jpg_480x480.jpg",
+                            "rect": {
+                            "b": 2893,
+                            "id": -1,
+                            "l": 0,
+                            "r": 324,
+                            "t": 2568
+                            },
+                            "type": 1,
+                            "uri": "null,null,21841252846,4,110.00"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img03.taobaocdn.com/bao/uploaded/i3/17473027107755102/T1O.aqFeNgXXXXXXXX_!!0-item_pic.jpg_160x160.jpg",
+                            "rect": {
+                            "b": 2730,
+                            "id": -1,
+                            "l": 324,
+                            "r": 480,
+                            "t": 2568
+                            },
+                            "type": 1,
+                            "uri": "null,null,19796514703,4,79.00"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img03.taobaocdn.com/bao/uploaded/i3/17242027926185301/T1ZAqOFkpcXXXXXXXX_!!0-item_pic.jpg_160x160.jpg",
+                            "rect": {
+                            "b": 2893,
+                            "id": -1,
+                            "l": 324,
+                            "r": 480,
+                            "t": 2730
+                            },
+                            "type": 1,
+                            "uri": "null,null,2251580218,4,25.00"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img01.taobaocdn.com/bao/uploaded/i1/10427026591081123/T1oNmgFkdcXXXXXXXX_!!0-item_pic.jpg_480x480.jpg",
+                            "rect": {
+                            "b": 3253,
+                            "id": -1,
+                            "l": 0,
+                            "r": 480,
+                            "t": 2893
+                            },
+                            "type": 1,
+                            "uri": "null,null,10424960063,4,98.00"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img04.taobaocdn.com/bao/uploaded/i4/12464027935843747/T1_5h_FbJaXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                            "rect": {
+                            "b": 3415,
+                            "id": -1,
+                            "l": 0,
+                            "r": 162,
+                            "t": 3253
+                            },
+                            "type": 1,
+                            "uri": "null,null,3423563570,4,58.00"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img01.taobaocdn.com/bao/uploaded/i1/17892027716110186/T1qsuSFX8aXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                            "rect": {
+                            "b": 3579,
+                            "id": -1,
+                            "l": 0,
+                            "r": 162,
+                            "t": 3415
+                            },
+                            "type": 1,
+                            "uri": "null,null,20025474167,4,28.00"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img01.taobaocdn.com/bao/uploaded/i1/12192028825354123/T11pblFlJeXXXXXXXX_!!0-item_pic.jpg_320x320.jpg",
+                            "rect": {
+                            "b": 3579,
+                            "id": -1,
+                            "l": 162,
+                            "r": 480,
+                            "t": 3253
+                            },
+                            "type": 1,
+                            "uri": "null,null,15623614594,4,28.90"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img03.taobaocdn.com/bao/uploaded/i3/15973025600614023/T1tyJWFalbXXXXXXXX_!!0-item_pic.jpg_480x480.jpg",
+                            "rect": {
+                            "b": 3939,
+                            "id": -1,
+                            "l": 0,
+                            "r": 480,
+                            "t": 3579
+                            },
+                            "type": 1,
+                            "uri": "null,null,26614012277,4,8.80"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img04.taobaocdn.com/bao/uploaded/i4/17111022029507466/T1akWjXuRaXXXXXXXX_!!0-item_pic.jpg_480x480.jpg",
+                            "rect": {
+                            "b": 4299,
+                            "id": -1,
+                            "l": 0,
+                            "r": 480,
+                            "t": 3939
+                            },
+                            "type": 1,
+                            "uri": "null,null,16512327399,4,8.00"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img04.taobaocdn.com/bao/uploaded/i4/18039019517218331/T1Kyo9Xc8XXXXXXXXX_!!0-item_pic.jpg_480x480.jpg",
+                            "rect": {
+                            "b": 4659,
+                            "id": -1,
+                            "l": 0,
+                            "r": 480,
+                            "t": 4299
+                            },
+                            "type": 1,
+                            "uri": "null,null,18808131511,4,19.80"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img04.taobaocdn.com/bao/uploaded/i4/18726039123000124/T1h0irFXRfXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                            "rect": {
+                            "b": 4906,
+                            "id": -1,
+                            "l": 0,
+                            "r": 240,
+                            "t": 4659
+                            },
+                            "type": 1,
+                            "uri": "null,null,21151407436,4,58.00"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img02.taobaocdn.com/bao/uploaded/i2/17117039257580209/T1oWpBXEtcXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                            "rect": {
+                            "b": 4906,
+                            "id": -1,
+                            "l": 240,
+                            "r": 480,
+                            "t": 4659
+                            },
+                            "type": 1,
+                            "uri": "null,null,21982699283,4,69.90"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img04.taobaocdn.com/bao/uploaded/i4/17122033251536103/T1KfhtXwReXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                            "rect": {
+                            "b": 5068,
+                            "id": -1,
+                            "l": 0,
+                            "r": 162,
+                            "t": 4906
+                            },
+                            "type": 1,
+                            "uri": "null,null,14055587300,4,59.00"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img01.taobaocdn.com/bao/uploaded/i1/17015028114261240/T1SmCYFitXXXXXXXXX_!!0-item_pic.jpg_250x250.jpg",
+                            "rect": {
+                            "b": 5232,
+                            "id": -1,
+                            "l": 0,
+                            "r": 162,
+                            "t": 5068
+                            },
+                            "type": 1,
+                            "uri": "null,null,16319530709,4,1.99"
+                            }, {
+                            "bitmapurl": "http://img.taobaocdn.com/bao/uploaded/http://img03.taobaocdn.com/bao/uploaded/i3/17818022931485640/T1SBuIXqtXXXXXXXXX_!!0-item_pic.jpg_320x320.jpg",
+                            "rect": {
+                            "b": 5232,
+                            "id": -1,
+                            "l": 162,
+                            "r": 480,
+                            "t": 4906
+                            },
+                            "type": 1,
+                            "uri": "null,null,14377043268,4,26.00"
+                            }],
+                  "showprice": true,
+                  "title": "美容彩妆",
+                  "width": 480
+ }]
+}

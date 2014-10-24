@@ -1,0 +1,63 @@
+{
+    "result": 1,
+    "taobaoList": [{
+                   "appName": "com.taobao.wireless.life",
+                   "appType": 0,
+                   "appVersion": "1.2.0",
+                   "clientType": 2,
+                   "desc": "淘宝零食街是一款一站式零食购买服务平台，包含各地特产，养生零食，怀旧食品等等，新增食友圈子，晒美食、聊心得! ",
+                   "id": 23,
+                   "imgUrl": "http://img1.tbcdn.cn:80/L1/68/2157/cca0c0d85f8d4bfca8c1eaca46542831.png",
+                   "title": "淘宝零食街",
+                   "toAppName": "all",
+                   "url": "http://download.tbcache.com/L0/L1mOCcXCtgXXcbrpjX.apk"
+                   },
+                   
+                   {
+                   "appName": "com.taobao.wireless.wht.chuangyijie",
+                   "appType": 0,
+                   "appVersion": "1.1.0",
+                   "clientType": 2,
+                   "desc": "淘宝创意街是一款集合淘宝原创商品的客户端，精选了淘宝网上各种各样的新奇特商品。同时，创意街也是原创设计师展现自我的平台，可以第一时间购买到设计师的最新创作！",
+                   "id": 15,
+                   "imgUrl": "http://img3.tbcdn.cn:80/L1/68/2206/125ad2639b3a428b8e775e774b4b1c94.jpg",
+                   "title": "淘宝创意街",
+                   "toAppName": "all",
+                   "url": "http://download.taobaocdn.com/dipei/twlife/creative_street_1.1.0.apk"
+                   }],
+    "businessList": []
+}
+
+http://twlife.client.taobao.com/client
+
+action	getRecommendApp
+api_version	1.2.1
+client_name	com.taobao.wireless.wht.a180
+client_source	android
+client_version	1.2.0
+digest	0AAE883746544BD24A309AA582739FC6
+ecode	VXMfV
+fpoint	00180
+imei	869323000391744
+imsi	460009151947105
+module	recommendService
+screenW	480
+screenY	854
+sid	c7a93d2dfbcb47564bfdb75d9904a1d6
+userId	1858718825
+wht_type	taoke
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////
+购买
+http://h5.m.taobao.com/awp/core/detail.htm?id=12592327821&ali_trackid=2:mm_27400360_0_0:1383648134_6k1_905197389&sid=c7a93d2dfbcb47564bfdb75d9904a1d6&ttid=400000_21422441%40whttk_android_1.2.0
+
+id	12592327821
+ali_trackid	2:mm_27400360_0_0:1383648134_6k1_905197389
+sid	c7a93d2dfbcb47564bfdb75d9904a1d6
+ttid	400000_21422441@whttk_android_1.2.0
